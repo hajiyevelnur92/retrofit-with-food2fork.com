@@ -2,6 +2,7 @@
 This will provide food data in JSON form and display it using RecyclerView and CardView.
 
 ```json
+# JSON DATA TYPE
 {
 count: 30,
 recipes: [
