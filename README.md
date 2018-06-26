@@ -5,7 +5,7 @@ This will provide food data in JSON form and display it using RecyclerView and C
 
 #### **Code**
 
-'''
+```
 {
 	count: 30,
 	recipes: [
@@ -22,7 +22,7 @@ This will provide food data in JSON form and display it using RecyclerView and C
 	...
 		]
 }
-'''
+```
 
 
 ## **Usage** ##
