@@ -1,10 +1,6 @@
 # retrofit-with-food2fork.com
 This will provide food data in JSON form and display it using RecyclerView and CardView.
 
-<p align="left">
-<img src="">
-</p>
-
 [<img src="https://image.ibb.co/n2N9C8/en_badge_web_generic.png">](https://play.google.com/store/apps/details?id=codehive.foodrecept)
 
 #### **Code**
