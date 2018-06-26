@@ -19,18 +19,8 @@ publisher_url: "http://closetcooking.com"
 ...
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
+## **Usage** ##
+![image](https://image.ibb.co/np9LkT/ezgif_com_video_to_gif_1.gif)
 
 
 ### [License](./LICENSE)
