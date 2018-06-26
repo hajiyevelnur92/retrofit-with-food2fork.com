@@ -20,7 +20,7 @@ publisher_url: "http://closetcooking.com"
 ```
 
 ## **Usage** ##
-![image](https://image.ibb.co/np9LkT/ezgif_com_video_to_gif_1.gif)
+![image](https://image.ibb.co/gnqRQT/ezgif_com_video_to_gif_2.gif)
 
 
 ### [License](./LICENSE)
